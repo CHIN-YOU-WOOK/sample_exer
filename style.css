@@ -1,0 +1,24 @@
+.go_home{
+    background-color: aquamarine;        
+    color: rgb(174, 31, 193);
+    width: 120px;
+    height: 60px;
+   
+}
+
+.go_login{
+    background-color: rgb(174, 221, 22);        
+    color: rgb(16, 22, 197);
+    width: 120px;
+    height: 60px;
+    
+    }
+    
+    .go_hello{
+        background-color: rgb(174, 221, 22);        
+        color: rgb(16, 22, 197);
+        width: 120px;
+        height: 60px;
+        
+        }
+            
